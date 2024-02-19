@@ -1,3 +1,5 @@
+![Preview](https://github.com/rifkyalamsyah/build-blog/assets/59393904/0185b4de-2139-4881-82d9-5b962b6670da)
+
 # Astro Starter Kit: Minimal
 
 ```sh
